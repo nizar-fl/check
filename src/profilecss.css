@@ -1,0 +1,16 @@
+.profileimg{
+    margin-left: 46.5%;
+    margin-top: 100px;
+    height: 200px;
+    width: 200px;
+    border-radius:50% ;
+}
+.Name{
+    margin-left: 47.5%;
+    margin-top: 50px;
+}
+.Address{
+    margin-left: 48.5%;
+    color: brown;
+    font-size: large;
+}
